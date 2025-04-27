@@ -1,0 +1,14 @@
+{
+  "name": "whatsapp-venom-bot",
+  "version": "1.0.0",
+  "description": "Exemplo de bot WhatsApp com Venom",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "venom-bot": "^4.0.0"
+  },
+  "author": "Seu Nome",
+  "license": "ISC"
+}
